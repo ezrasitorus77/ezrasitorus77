@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Indra David Pesik</h1>
+<h1 align="center">Hi 👋, I'm Ezra Sitorus</h1>
 <h3 align="center">Developer</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ndraa124&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndraa124&layout=compact" height=150 width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ezrasitorus77&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezrasitorus77&layout=compact" height=150 width="300"/>
 </p>
 
 
